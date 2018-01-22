@@ -19,7 +19,7 @@ class School
 
   def sort(grade)
     grade.sort
-  
+
   end
 
 
