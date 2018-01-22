@@ -6,6 +6,7 @@ class School
 
   def initialized
     @school
+    ROSTER 
   end
 
 
