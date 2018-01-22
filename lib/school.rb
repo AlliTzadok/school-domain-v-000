@@ -25,8 +25,4 @@ class School
     sorted_names
   end
 
-  end
-
-
-
 end
