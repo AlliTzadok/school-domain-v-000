@@ -1,4 +1,5 @@
 class School
 
-
-end 
+def initialized(school)
+  @school = school
+end
