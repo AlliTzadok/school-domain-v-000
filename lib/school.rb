@@ -6,7 +6,11 @@ class School
 
   def initialized
     @school
-    ROSTER 
+    ROSTER
+  end
+
+  def add_student(name)
+    ROSTER << name
   end
 
 
